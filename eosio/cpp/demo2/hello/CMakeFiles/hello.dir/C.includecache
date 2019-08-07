@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/blockchain/eosio/cpp/demo2/hello/hello.c
+hello.h
+/home/blockchain/eosio/cpp/demo2/hello/hello.h
+
+/home/blockchain/eosio/cpp/demo2/hello/hello.h
+stdio.h
+-
+
