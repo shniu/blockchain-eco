@@ -1,6 +1,2 @@
-# Introduction
-
-> BlockchainKB is Blockchain Knowledge Base.
-
-
+# Initial page
 
