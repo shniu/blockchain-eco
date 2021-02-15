@@ -1,3 +1,2 @@
-# blockchain-eco
+# Initial page
 
-Blockchain ecosystem.
