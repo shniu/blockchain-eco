@@ -57,7 +57,7 @@ Alice的钱包应用知道如何选取合适的输入匹配Alice所创建的交�
 
 #### BIP 32
 
-![HD Wallet](.gitbook/assets/image.png)
+![HD Wallet](../.gitbook/assets/image.png)
 
 #### 助记词
 
