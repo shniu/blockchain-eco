@@ -4,6 +4,11 @@
 
 
 
+### Coin Market
+
+* [https://coinmarketcap.com/zh/](https://coinmarketcap.com/zh/)
+* TradingView: [https://www.tradingview.com/markets/cryptocurrencies/prices-all/](https://www.tradingview.com/markets/cryptocurrencies/prices-all/)
+
 ### Reference
 
 * [精通比特币](https://github.com/tianmingyun/MasterBitcoin2CN)
