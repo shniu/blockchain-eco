@@ -2,12 +2,7 @@
 
 > BlockchainKB is Blockchain Knowledge Base.
 
-### Todos
 
-* [ ] BSC
-  * [ ] 翻译 BSC 白皮书
-
---- 
 
 ### Coin Market
 
