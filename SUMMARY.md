@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Future of Blockchain](future-of-blockchain.md)
 * [Blockchain](blockchain/README.md)
   * [Bitcoin](blockchain/bitcoin.md)
   * [区块浏览器](blockchain/qu-kuai-liu-lan-qi.md)
