@@ -17,6 +17,7 @@ description: Binance Smart Chain
 BSC 开发指南
 
 * [BSC 快速上手指南](https://obsidianlabs.medium.com/bsc-%E5%BC%80%E5%8F%91%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97-7a84efa128ea)
-* 
+* [BSC Studio](https://github.com/ObsidianLabs/BSC-Studio/blob/master/README-CN.md)
+
 
 
